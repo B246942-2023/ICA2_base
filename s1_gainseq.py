@@ -4,7 +4,7 @@ import os
 import subprocess
 import shutil
 import sys
-import time
+
 #=================================================function define==================================================
 #run linux command in python
 def linux_commands( str ):
